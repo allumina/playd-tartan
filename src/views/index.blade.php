@@ -1,5 +1,5 @@
-@extends('layouts.base')
+@extends('themes.playd-tartan.layouts.base')
 
-@section 'content'
+@section('content')
     <h1>HELLO!</h1>
 @endsection
